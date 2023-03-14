@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install wheel from PyPI
-        uses: install-pinned/wheel@dc4c85bb0929b68433024036227938f8cb4d5f9c  # 0.38.4
+        uses: install-pinned/wheel@2acc19c60efc35c44c3a1f7ed29368794f99b3b0  # 0.40.0
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
